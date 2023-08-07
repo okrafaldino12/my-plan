@@ -1,4 +1,6 @@
 Rencana Sampingan :
 1.Ngegym
 2.Magang
+  *buat dulu cvnya 
+  *buat dulu web portfolionya
 3.Interview
